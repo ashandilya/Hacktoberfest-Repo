@@ -1,5 +1,14 @@
 ![Banner](https://i.ibb.co/Tgkws2F/hacktoberfest-banner.jpg)
 
+# Welcome to Hacktober Fest 2020
+
+Follow these steps to get your t-shirt
+  
+  1. Fork any of below listed repository.
+  2. Clone forked repository to your local system.
+  3. [Follow this blog to start contribution](https://medium.com/ashandilya/open-source-contribution-is-just-a-few-steps-away-f898dc725e1a)
+  4. [Check your Hacktober fest profile for updates](https://hacktoberfest.digitalocean.com/)
+
 ## List Internet Resources
 [awesome-internet-resources](https://github.com/ashandilya/awesome-internet-resources)
 
